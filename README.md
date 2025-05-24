@@ -1,15 +1,27 @@
 ## 📊 WhatsApp Chat Analyzer
-This project analyzes WhatsApp chat data to extract insights such as message frequency, active hours, most used words, and user activity. It uses Python (pandas, seaborn, matplotlib, wordcloud) to generate visualizations and statistical summaries.
+A powerful tool that extracts and visualizes insights from exported WhatsApp chat data. This project analyzes message trends, identifies the most active users, generates word clouds, performs emoji analysis, and maps user activity across time.
 
 ## Deployed Link
 https://whatsapp-chat-analyser-2nbu.onrender.com
 
 ## 🧠 Features
-📅 Message frequency by day and hour <br>
-🔥 Heatmap of activity <br>
-🗣️ Most active users <br>
-☁️ Word cloud generation <br>
-📈 Pivot table creation for user behavior analysis <br>
+📈 Total messages, words, links, and media shared
+
+👤 Most active users with percentage contribution
+
+☁️ Word cloud excluding Hinglish stop words
+
+🧠 Most common words used
+
+😂 Emoji usage analysis
+
+🕒 Monthly and daily timeline of activity
+
+📅 Weekly and monthly activity distribution
+
+🔥 Heatmap showing activity by hour and day
+
+
 
 ## 🛠️ Tech Stack
 Python <br>
