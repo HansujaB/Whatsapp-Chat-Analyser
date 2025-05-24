@@ -31,4 +31,5 @@ Seaborn <br>
 WordCloud <br>
 URLExtract <br>
 Emoji <br>
-Streamlit 
+Streamlit (UI)
+Render (Deployment)
